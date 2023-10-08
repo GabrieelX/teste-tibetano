@@ -1,2 +1,2 @@
 # teste-tibetano
-Teste tibetano responsivo 
+Criando um site com a ideia de um teste tibetano usando bootstrap
